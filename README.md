@@ -62,6 +62,10 @@ use the ip address for the python code of ai_agent_gradio_llama.py after http://
 
 Develop MCP Server With OpenAI API
 
+download nodejs: https://nodejs.org/en/download/
+
+npv --version
+
 python=3.12.9
 
 pip install -r requirements.txt
